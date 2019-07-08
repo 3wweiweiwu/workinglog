@@ -1,4 +1,4 @@
-#Mon Jul 08 05:01:54 EDT 2019
+#Mon Jul 08 05:05:05 EDT 2019
 base.0=C\:\\Users\\3wwei\\workinglog\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
 renamed.0=classes.dex
+path.0=classes.dex
